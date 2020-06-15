@@ -16,8 +16,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-          <li class="breadcrumb-item active" aria-current="page">USUARIO: <?php echo $data['nickname']; ?></li>
-          <li class="breadcrumb-item active" aria-current="page">ADRESS: <?php echo $data['address']['city']; ?></li>
+          <li class="breadcrumb-item active" aria-current="page">USER: <?php echo $data['nickname']; ?></li>
+          <li class="breadcrumb-item active" aria-current="page">ADDRESS: <?php echo $data['address']['city']; ?></li>
         </ol>
       </nav>
 
